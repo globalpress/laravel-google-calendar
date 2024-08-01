@@ -6,7 +6,7 @@ use Carbon\Carbon;
 use DateTime;
 use Mockery as m;
 use Spatie\GoogleCalendar\Event;
-use Spatie\GoogleCalendar\Tests\TestCase;
+use Tests\TestCase;
 
 class EventTest extends TestCase
 {
